@@ -19,7 +19,7 @@ conda activate /Users/vallirajasekar/Desktop/ML/Machine_Learning_Application/env
 pip install -r requirements.txt
 
 ## Add Graffana for getting Notifacation Mail 
-##sekar --> btmsekar
+
 
 ##49.205.35.15/32
 

@@ -8,3 +8,15 @@ e.helper function
 f.data Ingestion
 g.training pipeline 
 h.testing 
+
+2.Data Transformation pipeline
+
+a.config.yaml-->completed
+b.schema.yaml--> completed
+c.consant file-->define variable
+d.config entity -->
+e. artifact entity 
+e.helper function-->utils file
+f.data Transormation Pipeline
+g.training pipeline 
+h.testing 
